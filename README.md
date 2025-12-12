@@ -36,9 +36,12 @@ A few projects I'm proud of — source, purpose, and what I learned:
 ---
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical)
-![Stats](https://github-readme-stats.vercel.app/api?username=pranay03bhoir&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=pranay03bhoir&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical&cache_seconds=86400)
 
+
+![Followers](https://img.shields.io/github/followers/pranay03bhoir?label=Followers&style=social)](https://github.com/pranay03bhoir?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=pranay03bhoir&style=flat-square)](https://github.com/pranay03bhoir)
 ---
 
 ## 🧰 How I Work
