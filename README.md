@@ -72,7 +72,7 @@ I work across the full stack with a focus on reliable, maintainable systems.
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[SB E‑com](https://github.com/pranay03bhoir/JAVA-FULLSTACK/tree/main/sb-ecom)** | A Full‑stack E‑commerce application featuring product catalogs, cart management, checkout flows, and admin dashboards. | `Spring Boot` `Java` `React` |
-| **[KCC Classes SMS](https://github.com/pranay03bhoir/kcc-classes-website-SMS-)** | Student Management System for educational institutes handling student records, attendance, and SMS notifications. | `PHP` `MySQL` `JS` |
+| **[KCC Classes SMS](https://github.com/pranay03bhoir/kcc-classes-website-SMS-)** | Student Management System for educational institutes handling student records, attendance, and SMS notifications. | `Node.js` `Express.js` `MongoDB` `JS` |
 
 ---
 
