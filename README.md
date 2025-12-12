@@ -79,8 +79,9 @@ I work across the full stack with a focus on reliable, maintainable systems.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranay03bhoir&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranay03bhoir&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br/>
