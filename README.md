@@ -40,7 +40,7 @@ A few projects I'm proud of — source, purpose, and what I learned:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical&cache_seconds=86400)
 
 
-![Followers](https://img.shields.io/github/followers/pranay03bhoir?label=Followers&style=social)](https://github.com/pranay03bhoir?tab=followers)
+![Followers](https://img.shields.io/github/followers/pranay03bhoir?label=Followers&style=social)]
 ![Profile Views](https://komarev.com/ghpvc/?username=pranay03bhoir&style=flat-square)](https://github.com/pranay03bhoir)
 ---
 
