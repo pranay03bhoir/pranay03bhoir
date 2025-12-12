@@ -36,12 +36,14 @@ A few projects I'm proud of — source, purpose, and what I learned:
 ---
 
 ## 📈 GitHub Stats
+<!-- Attempt to load readme-stats (may fail if the hosted service is paused) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=pranay03bhoir&show_icons=true&theme=radical&cache_seconds=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical&cache_seconds=86400)
 
-
-![Followers](https://img.shields.io/github/followers/pranay03bhoir?label=Followers&style=social)]
-![Profile Views](https://komarev.com/ghpvc/?username=pranay03bhoir&style=flat-square)](https://github.com/pranay03bhoir)
+<!-- Fallback badges (always reliable) -->
+[![Followers](https://img.shields.io/github/followers/pranay03bhoir?label=Followers&style=social)]
+[![Profile Views](https://komarev.com/ghpvc/?username=pranay03bhoir&style=flat-square)](https://github.com/pranay03bhoir)
+[![Stars](https://img.shields.io/github/stars/pranay03bhoir?style=social)](https://github.com/pranay03bhoir?tab=repositories)
 ---
 
 ## 🧰 How I Work
