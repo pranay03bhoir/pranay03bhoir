@@ -40,6 +40,7 @@ I build reliable backend systems, intuitive frontend experiences, and practical 
 ## 💡 What I Build
 
 - Production-ready REST APIs with Spring Boot and Node.js
+- Cloud-native microservices with Spring Boot, Spring Cloud, Kafka, RabbitMQ, Docker, and Kubernetes
 - Scalable frontend experiences with React and Next.js
 - Data-driven services using PostgreSQL, MongoDB, and Redis
 - Containerized deployments with Docker and AWS
@@ -60,8 +61,15 @@ I work across the full stack with a focus on maintainable architecture and high-
 ### **Backend & Frameworks**
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+
+### **Microservices**
+![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%233F0E0E.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -78,6 +86,12 @@ I work across the full stack with a focus on maintainable architecture and high-
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### **AI Tools**
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-222222?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+![Bard](https://img.shields.io/badge/Bard-4285F4?style=for-the-badge&logo=google-bard&logoColor=white)
 ---
 
 ## 💡 Featured Projects
