@@ -90,8 +90,10 @@ I work across the full stack with a focus on maintainable architecture and high-
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-222222?style=for-the-badge&logo=github-copilot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring%20AI-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
 ![Bard](https://img.shields.io/badge/Bard-4285F4?style=for-the-badge&logo=google-bard&logoColor=white)
+
 ---
 
 ## 💡 Featured Projects
