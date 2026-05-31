@@ -87,6 +87,7 @@ I work across the full stack with a focus on maintainable architecture and high-
 | **[SB E‑com](https://github.com/pranay03bhoir/JAVA-FULLSTACK/tree/main/sb-ecom)** | Full-stack e-commerce app with product catalogs, cart workflows, checkout logic, and admin dashboards. | `Spring Boot` `Java` `React` |
 | **[KCC Classes SMS](https://kccclasses.in)** | Student management platform for institutes with attendance tracking and SMS notifications. | `Node.js` `Express.js` `MongoDB` `JavaScript` |
 | **[Custom Bash Shell](https://github.com/pranay03bhoir/Custom-shell-Go)** | A custom command-line shell implemented in Go, featuring shell scripting support, command execution, and terminal interaction. | `Go` `CLI` `Bash` |
+| **[Java Full Stack Microservices](https://github.com/pranay03bhoir/Micro-Devops-Cloud/tree/main/easy-buy)** | A modern full-stack Spring Boot microservice application using Spring Cloud, Spring Security, Kafka, RabbitMQ, MySQL, PostgreSQL, and React with Docker and Kubernetes deployment. | `Java` `Spring Boot` `Spring Cloud` `Spring Security` `Kafka` `RabbitMQ` `MySQL` `PostgreSQL` `React` `Docker` `Kubernetes` `Redis` `AWS` `CI/CD` `Config-Server` |
 
 ---
 
