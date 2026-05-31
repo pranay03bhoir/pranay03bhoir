@@ -27,17 +27,29 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: **Resume builder + Job portal + Tutoring Platform**
-- 🌱 I’m currently learning: **DevOps, Linux, Cloud Architecture**
-- 👯 I’m looking to collaborate on: **Projects that solve real-world community problems**
-- 💬 Ask me about: **Backend logic, Database optimization, Java & JS ecosystems**
-- ⚡ Fun fact: **I enjoy building practical tools that simplify daily tasks for students and businesses.**
+I build reliable backend systems, intuitive frontend experiences, and practical tools that help students, educators, and small businesses move faster.
+
+- 🔭 Currently building: **Resume builder • Job portal • Tutoring platform**
+- 🌱 Learning: **DevOps • Linux • Cloud architecture**
+- 👯 Open to collaborate on: **community impact apps, growth-stage product work, and backend-driven SaaS**
+- 💬 Ask me about: **API design, performance tuning, database optimization, Java, JavaScript, and TypeScript**
+- ⚡ Fun fact: **I enjoy turning everyday problems into useful software solutions.**
+
+---
+
+## 💡 What I Build
+
+- Production-ready REST APIs with Spring Boot and Node.js
+- Scalable frontend experiences with React and Next.js
+- Data-driven services using PostgreSQL, MongoDB, and Redis
+- Containerized deployments with Docker and AWS
+- Developer-friendly tooling for testing and CI/CD
 
 ---
 
 ## 🛠️ Tech Stack
 
-I work across the full stack with a focus on reliable, maintainable systems.
+I work across the full stack with a focus on maintainable architecture and high-quality delivery.
 
 ### **Languages**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -49,12 +61,12 @@ I work across the full stack with a focus on reliable, maintainable systems.
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### **Databases & Caching**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,7 +74,7 @@ I work across the full stack with a focus on reliable, maintainable systems.
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -72,17 +84,16 @@ I work across the full stack with a focus on reliable, maintainable systems.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[SB E‑com](https://github.com/pranay03bhoir/JAVA-FULLSTACK/tree/main/sb-ecom)** | A Full‑stack E‑commerce application featuring product catalogs, cart management, checkout flows, and admin dashboards. | `Spring Boot` `Java` `React` |
-| **[KCC Classes SMS](https://github.com/pranay03bhoir/kcc-classes-website-SMS-)** | Student Management System for educational institutes handling student records, attendance, and SMS notifications. | `Node.js` `Express.js` `MongoDB` `JS` |
+| **[SB E‑com](https://github.com/pranay03bhoir/JAVA-FULLSTACK/tree/main/sb-ecom)** | Full-stack e-commerce app with product catalogs, cart workflows, checkout logic, and admin dashboards. | `Spring Boot` `Java` `React` |
+| **[KCC Classes SMS](https://github.com/pranay03bhoir/kcc-classes-website-SMS-)** | Student management platform for institutes with attendance tracking and SMS notifications. | `Node.js` `Express.js` `MongoDB` `JavaScript` |
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranay03bhoir&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay03bhoir&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pranay03bhoir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <br/>
@@ -94,11 +105,12 @@ I work across the full stack with a focus on reliable, maintainable systems.
 ---
 
 ## 🧰 How I Work
-> *"I believe in clean, maintainable code with good test coverage."*
 
-* **Iterative Development:** I prefer frequent feedback and small, reviewable pull requests.
-* **Testing:** Strong usage of Jest and PyTest to ensure reliability.
-* **Collaboration:** I enjoy mentoring and discussing architecture/backend challenges.
+> *"Clean, maintainable code and strong test coverage are the foundations of reliable software."
+
+- Iterative development with frequent feedback
+- Automated testing and quality-focused delivery
+- Open communication and collaborative design
 
 ---
 
